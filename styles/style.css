@@ -101,6 +101,11 @@ summary,
     gap: var(--gap, 2rem);
 }
 
+.flex-center {
+    justify-content: center;
+    align-items: center;
+}
+
 /* Grid Container */
 
 .grid {
